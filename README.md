@@ -26,7 +26,7 @@ The experimental results are evaluated using  [Mean Absolute Error (MAE)](),this
 The [data](https://github.com/Chandu106/Regression_project_01/blob/main/thermodynamics_csv01_02.csv) :computer: was collected by us through various website :scroll:
 ![WhatsApp Image ;;](https://user-images.githubusercontent.com/116875885/203907546-2ea4c577-6d38-4407-b1c8-497f48635a77.jpeg)
 
-variation of features against temperature can be seen like below figure [here](https://github.com/adijams01/thermo_regression_01/blob/main/Data_Graphs.ipynb)
+variation of features against temperature can be seen like below figure [here](https://github.com/Chandu106/Regression_project_01/blob/main/Data_Graphs.ipynb)
 
 ![WhatsApp Image pop](https://user-images.githubusercontent.com/116875885/203907605-ba709c6b-9bf9-47e5-bcab-221bd0d5ef94.jpeg)
 
