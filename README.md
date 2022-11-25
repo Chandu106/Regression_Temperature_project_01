@@ -23,24 +23,21 @@ The experimental results are evaluated using  [Mean Absolute Error (MAE)](),this
 
 ### Data
 
-The [data](https://github.com/adijams01/thermo_regression_01/blob/main/thermodynamics_csv.csv) :computer: was collected by us through various website :scroll:
-
-
-![1](https://user-images.githubusercontent.com/92617405/201166911-e191cfae-9f35-485d-b866-b1a36624b994.jpeg)
+The [data](https://github.com/Chandu106/Regression_project_01/blob/main/thermodynamics_csv01_02.csv) :computer: was collected by us through various website :scroll:
+![WhatsApp Image ;;](https://user-images.githubusercontent.com/116875885/203907546-2ea4c577-6d38-4407-b1c8-497f48635a77.jpeg)
 
 variation of features against temperature can be seen like below figure [here](https://github.com/adijams01/thermo_regression_01/blob/main/Data_Graphs.ipynb)
 
+![WhatsApp Image pop](https://user-images.githubusercontent.com/116875885/203907605-ba709c6b-9bf9-47e5-bcab-221bd0d5ef94.jpeg)
 
-![2](https://user-images.githubusercontent.com/92617405/201166975-2aa14538-7689-4ab1-9e1d-ccc18874c209.jpeg)
 
 
 
 ### Results
 
 Best performing model is model_08 with **_loss: 2.9669 (- mae: 2.9669)_**
+![201166844-686d3a3d-75b5-4a37-a55d-8aceb94085c4](https://user-images.githubusercontent.com/116875885/203907650-a8f787d3-86cc-40a4-855e-df2723670bff.jpeg)
 
-
-![3](https://user-images.githubusercontent.com/92617405/201166844-686d3a3d-75b5-4a37-a55d-8aceb94085c4.jpeg)
 
 
 ### References
