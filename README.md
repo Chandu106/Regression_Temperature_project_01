@@ -5,7 +5,7 @@
 2. [Data](https://github.com/Chandu106/Regression_project_01/blob/main/README.md#data)
 3. [Results](https://github.com/Chandu106/Regression_project_01/blob/main/README.md#results)
 4. [Refrences](https://github.com/Chandu106/Regression_project_01/blob/main/README.md#references) 
-5[Contributors](https://github.com/Chandu106/Regression_project_01/blob/main/README.md#contributors)
+5. [Contributors](https://github.com/Chandu106/Regression_project_01/blob/main/README.md#contributors)
 ### Abstract
 Weather prediction is one of the most important research areas due to its applicability in real-world problems like meteorology, agricultural studies, etc.
 
