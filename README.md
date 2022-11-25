@@ -1,5 +1,4 @@
 # Regression_project_01
-# Thermo_Regression
 
 ## Table of content
 1. [Abstract](https://github.com/Chandu106/Regression_project_01/blob/main/README.md#abstract)
